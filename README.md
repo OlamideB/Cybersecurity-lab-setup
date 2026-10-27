@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Skill-Cybersecurity-darkred">
   <img src="https://img.shields.io/badge/Ver-Virtualbox%20v7.2.4-blue?labelColor=black">
-  <img src="https://img.shields.io/badge/Kali%20Linux-v2026.1-orange?logo=kalilinux&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/Kali%20Purple-v2026.1-purple?logo=kalilinux&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/Network-10.0.0.0%2F24-teal?labelColor=black">
   <img src="https://img.shields.io/badge/Skill-Virtualization-darkred">
   <a href="https://github.com/OlamideB"><img src="https://img.shields.io/badge/GitHub-OlamideB-black?logo=github"></a>
@@ -23,7 +23,7 @@ The lab is configured on a NAT Network.
 ## Objectives
 
 1. Install VirtualBox.
-2. Set up Kali Linux as the attacker machine.
+2. Set up Kali Purple as the attacker machine.
 3. Set up the network on the 10.0.0.0/24 subnet.
 4. Use a NAT Network with 10.0.0.0/24.
 5. Verify network connectivity and DNS resolution.
@@ -50,7 +50,7 @@ This lab is used strictly for learning cybersecurity tools and techniques, such 
 | Host RAM | 32 GB |
 | Processor | Intel Core Ultra 7 |
 | Hypervisor | VirtualBox 7.2.4 |
-| Security OS | Kali Linux 2026.1 |
+| Security OS | Kali Purple 2026.1 |
 | Kali RAM | 8971 MB |
 | Virtual Network | NAT Network |
 | Network Address | 10.0.0.0/24 |
